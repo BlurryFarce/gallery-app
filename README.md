@@ -2,8 +2,8 @@
 
 ## TODO
 
-- [ ] Deploy (vercel)
-- [ ] Basic UI with mock data
+- [x] Deploy (vercel)
+- [x] Basic UI with mock data
 - [ ] Setup Database
 - [ ] Attach DB and UI
 - [ ] Add Authentication
