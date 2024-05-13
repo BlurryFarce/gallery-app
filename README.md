@@ -4,8 +4,8 @@
 
 - [x] Deploy (vercel)
 - [x] Basic UI with mock data
-- [ ] Setup Database
-- [ ] Attach DB and UI
+- [x] Setup Database
+- [x] Attach DB and UI
 - [ ] Add Authentication
 - [ ] Add Image upload
 - [ ] Error management (Sentry)
